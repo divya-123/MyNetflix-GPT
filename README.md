@@ -2,6 +2,11 @@
 -Create React App
 -Configured TailwindCss
 -Built Header
+-Routing
+-Login Form
+-Sign Up Form
+-Form validation - When click on Sign In, Form should be validated
+-useRef hook
 
 # Features
 - Login/Sign Up  Page

@@ -7,6 +7,10 @@
 -Sign Up Form
 -Form validation - When click on Sign In, Form should be validated
 -useRef hook
+-Firebase setup
+-Steps to deploy
+-Authentication - Requires a Backend
+-Create Sign Up User account in firebase
 
 # Features
 - Login/Sign Up  Page

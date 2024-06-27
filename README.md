@@ -12,6 +12,9 @@
 -Authentication - Requires a Backend
 -Create Sign Up User account in firebase
 -Created Redux store with User slice
+-Implemented Sign Out
+-Update profile display name and photo
+-Fetch movies from TMDB
 
 # Features
 - Login/Sign Up  Page

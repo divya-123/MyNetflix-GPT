@@ -11,6 +11,7 @@
 -Steps to deploy
 -Authentication - Requires a Backend
 -Create Sign Up User account in firebase
+-Created Redux store with User slice
 
 # Features
 - Login/Sign Up  Page

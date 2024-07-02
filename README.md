@@ -16,6 +16,8 @@
 -Update profile display name and photo
 -Bug fix: SignUp user display name and profile picture update on Browse page
 -Bug fix: If the user is not logged in redirect /browse to Login page
+-Unsubscribe to the onauthstatechanged callback
+-Added hard coded values to constants file
 -Fetch movies from TMDB
 
 # Features

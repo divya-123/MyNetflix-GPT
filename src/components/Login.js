@@ -6,6 +6,7 @@ import { auth } from '../utils/firebase';
 // import { useNavigate } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import { addUser } from '../utils/userSlice';
+import { PHOTOURL } from '../utils/constants';
 
 
 const Login = () => {
@@ -36,7 +37,7 @@ const Login = () => {
         // Signed up 
         const user = userCredential.user;
         updateProfile(user, {
-          displayName: nameRef.current.value, photoURL: "https://media.licdn.com/dms/image/D4D03AQHahmt1papaIA/profile-displayphoto-shrink_800_800/0/1670580580737?e=1724889600&v=beta&t=4tS9b3Y6sKcLGt9qRBDa-_MYg5ppb-DhEC2u6wuOP4c"
+          displayName: nameRef.current.value, photoURL: PHOTOURL
         }).then(() => {
           // Profile updated!
           const {uid, email, displayName, photoURL} = auth.currentUser;

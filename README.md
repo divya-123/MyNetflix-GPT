@@ -18,7 +18,7 @@
 -Bug fix: If the user is not logged in redirect /browse to Login page
 -Unsubscribe to the onauthstatechanged callback
 -Added hard coded values to constants file
--Fetch movies from TMDB
+-Login and Configuration of API in TMDB
 
 # Features
 - Login/Sign Up  Page

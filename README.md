@@ -29,6 +29,7 @@
 -Update store
 -Embedded the youtube video and autoplay and mute
 -Added tailwind classes to make Main Container good
+-Build Secondary Component
 
 # Features
 - Login/Sign Up  Page

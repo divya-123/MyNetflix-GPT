@@ -30,6 +30,11 @@
 -Embedded the youtube video and autoplay and mute
 -Added tailwind classes to make Main Container good
 -Build Secondary Component
+-Build Movie List
+-Build Movie Card
+-TMDB Image CDN URL
+-UI Browse Page 
+-UsePopularMovies custom hook
 
 # Features
 - Login/Sign Up  Page

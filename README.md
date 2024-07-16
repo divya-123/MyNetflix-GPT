@@ -35,6 +35,7 @@
 -TMDB Image CDN URL
 -UI Browse Page 
 -UsePopularMovies custom hook
+-Building GPT Search feature
 
 # Features
 - Login/Sign Up  Page

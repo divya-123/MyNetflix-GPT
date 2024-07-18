@@ -84,7 +84,7 @@ const Login = () => {
   return (
     <div>
         <Header />
-        <div className='background_img'>
+        <div className='absolute'>
         <img src='https://assets.nflxext.com/ffe/siteui/vlv3/41c789f0-7df5-4219-94c6-c66fe500590a/af676bd6-ca61-4cb3-ad8a-bd817d320741/US-en-20240513-popsignuptwoweeks-perspective_alpha_website_medium.jpg' alt='background' className='absolute'/>
         </div>
         <form onSubmit= {e=>e.preventDefault()}className='absolute p-12 bg-black/75 w-3/12 my-24 mx-auto left-0 right-0 text-white rounded-lg'>
